@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\markers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-notouch-v4\\values-large-notouch-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\markers\\app\\src\\main\\res\\values-large-notouch\\config.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 49,
+                        "endOffset": 727
+                    }
+                }
+            }
+        ]
+    }
+]

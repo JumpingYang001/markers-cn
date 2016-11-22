@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colors_vertical.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\colors_vertical.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colors_horizontal.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\colors_horizontal.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_box.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\about_box.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pen_editor.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\pen_editor.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tools.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\tools.xml"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overflow_menu.xml",
+        "source": "C:\\markers\\app\\src\\main\\res\\layout\\overflow_menu.xml"
+    }
+]

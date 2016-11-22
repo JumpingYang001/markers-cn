@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\markers\app\src\main\assets"><file name="about.html" path="C:\markers\app\src\main\assets\about.html"/><file name="license.html" path="C:\markers\app\src\main\assets\license.html"/></source><source path="C:\markers\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\markers\app\src\debug\assets"/></dataSet></merger>

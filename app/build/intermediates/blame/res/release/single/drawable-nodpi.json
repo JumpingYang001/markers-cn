@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\checks_light.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\checks_light.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\airbrush_light.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\airbrush_light.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\uncledan_save.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\uncledan_save.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\airbrush_dark.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\airbrush_dark.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\circle_1bpp.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\circle_1bpp.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\grabber.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\grabber.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\checks_small_dark.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\checks_small_dark.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\fountainpen.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\fountainpen.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\circle.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\circle.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\uncledan.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\uncledan.png"
+    }
+]

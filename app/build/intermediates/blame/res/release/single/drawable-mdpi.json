@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\qr.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\qr.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\launcher_icon.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\markers.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\markers.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\icon.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]
