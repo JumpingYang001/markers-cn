@@ -4,6 +4,18 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\markers.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\launcher_icon.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-mdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\markers.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-mdpi\\markers.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\qr.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\qr.png"
     },
@@ -14,5 +26,9 @@
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\qr.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-mdpi\\qr.png"
     }
 ]

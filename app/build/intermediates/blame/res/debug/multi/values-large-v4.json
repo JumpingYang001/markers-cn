@@ -155,5 +155,162 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\git\\markers-cn\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 49,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 53,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 53,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 54,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 54,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 50,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 50,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 41,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 41,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 67,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endColumn": 67,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 43,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 43,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 48,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-large\\config.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 48,
+                        "endOffset": 726
+                    }
+                }
+            }
+        ]
     }
 ]

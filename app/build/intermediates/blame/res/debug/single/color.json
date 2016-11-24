@@ -4,6 +4,14 @@
         "source": "C:\\markers\\app\\src\\main\\res\\color\\pentool_fg.xml"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\color\\pentool_bg.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\color\\pentool_bg.xml"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\color\\pentool_fg.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\color\\pentool_fg.xml"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\color\\pentool_bg.xml",
         "source": "C:\\markers\\app\\src\\main\\res\\color\\pentool_bg.xml"
     }

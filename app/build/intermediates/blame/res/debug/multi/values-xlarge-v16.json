@@ -1,5 +1,48 @@
 [
     {
+        "outputFile": "C:\\git\\markers-cn\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v16\\values-xlarge-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-xlarge-v16\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 48,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 67,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\git\\markers-cn\\app\\src\\main\\res\\values-xlarge-v16\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 67,
+                        "endOffset": 872
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\markers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v16\\values-xlarge-v16.xml",
         "map": [
             {

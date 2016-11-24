@@ -88,24 +88,24 @@ class About {
                 loadFileText(activity, "about.html"), "text/html", "utf-8", null);
 
         builder.setView(layout);
-        builder.setNegativeButton("Website", new OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.dismiss();
-                activity.clickSiteLink(null);
-            }});
-        builder.setNeutralButton("on Play Store", new OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.dismiss();
-                activity.clickMarketLink(null);
-            }});
-        builder.setPositiveButton("QR code", new OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.dismiss();
-                QrCode.show(activity);
-            }});
+//        builder.setNegativeButton("Website", new OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                dialog.dismiss();
+//                activity.clickSiteLink(null);
+//            }});
+//        builder.setNeutralButton("on Play Store", new OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                dialog.dismiss();
+//                activity.clickMarketLink(null);
+//            }});
+//        builder.setPositiveButton("QR code", new OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                dialog.dismiss();
+//                QrCode.show(activity);
+//            }});
 //        builder.setNegativeButton("Neat!", new OnClickListener() {
 //            @Override
 //            public void onClick(DialogInterface dialog, int which) {

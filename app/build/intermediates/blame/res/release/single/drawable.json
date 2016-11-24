@@ -12,7 +12,23 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable\\action_button_bg.xml"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_tool.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable\\transparent_tool.xml"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pentool_bg.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable\\pentool_bg.xml"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\transparent.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pentool_bg.xml",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable\\pentool_bg.xml"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\action_button_bg.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable\\action_button_bg.xml"
     }
 ]

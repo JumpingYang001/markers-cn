@@ -4,6 +4,46 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\newpage.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\doodlebug.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\doodlebug.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\share.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\overflow.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\overflow.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\large_launcher_icon.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\large_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\markers.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\markers.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\large_launcher_icon.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\large_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\check.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\check.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\gallery.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\gallery.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\overflow.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\overflow.png"
+    },
+    {
+        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\gallery.png",
+        "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\gallery.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\doodlebug.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\doodlebug.png"
     },
@@ -16,12 +56,20 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\launcher_icon.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\newpage.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\newpage.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\divider.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\divider.png"
     },
     {
-        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\large_launcher_icon.png",
-        "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\large_launcher_icon.png"
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\launcher_icon.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\undo.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\undo.png"
     },
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\load.png",
@@ -36,19 +84,23 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\scribble.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\divider.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\divider.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\scribble.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\scribble.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\markers.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\markers.png"
     },
     {
-        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\overflow.png",
-        "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\overflow.png"
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\load.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\load.png"
     },
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\share.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
-    },
-    {
-        "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\gallery.png",
-        "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\gallery.png"
     }
 ]

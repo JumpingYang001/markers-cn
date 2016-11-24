@@ -15,7 +15,7 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Markers画图</string>
+    <string name="app_name">MK画图</string>
     <string name="about_title">关于Markers画图</string>
     <string name="qr_title">Markers画图二维码</string>
     <string name="about_text">

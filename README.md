@@ -7,7 +7,8 @@ https://github.com/JumpingYang001/markers-cn/blob/master/app/app-release.apk
 #New things
 1.修改为中文
 2.加入退出按钮
-3.其它貌似没有修改
+3.Kill Activity on back button
+4.其它貌似没有修改
 
 ##Screen shots
 ![Alt text](screenshots/a.PNG?raw=true "Title a")

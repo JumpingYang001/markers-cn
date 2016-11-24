@@ -516,6 +516,12 @@ public class MarkersActivity extends Activity
             setHUDVisibility(!getHUDVisibility(), true);
             return true;
         }
+        if ((keyCode == KeyEvent.KEYCODE_BACK))
+        {
+            finish();
+            android.os.Process.killProcess(android.os.Process.myPid());
+            super.onDestroy();
+        }
         return super.onKeyDown(keyCode, event);
     }
 

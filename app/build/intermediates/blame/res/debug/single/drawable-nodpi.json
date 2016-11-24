@@ -1,11 +1,23 @@
 [
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\circle_1bpp.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\circle_1bpp.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\circle_1bpp.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\circle_1bpp.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\grabber.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\grabber.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\airbrush_dark.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\airbrush_dark.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\fountainpen.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\fountainpen.png"
     },
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\grabber.png",
@@ -16,8 +28,16 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\circle.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\checks_small_dark.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\checks_small_dark.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\checks_light.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\checks_light.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\airbrush_light.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\airbrush_light.png"
     },
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\fountainpen.png",
@@ -28,12 +48,32 @@
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\uncledan.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\uncledan.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\uncledan.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\airbrush_light.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\airbrush_light.png"
     },
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\uncledan_save.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-nodpi\\uncledan_save.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\airbrush_dark.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\airbrush_dark.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\circle.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\circle.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\uncledan_save.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\uncledan_save.png"
+    },
+    {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\checks_light.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-nodpi\\checks_light.png"
     },
     {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\checks_small_dark.png",
