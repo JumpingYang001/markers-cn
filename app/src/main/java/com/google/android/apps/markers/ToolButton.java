@@ -35,6 +35,8 @@ import android.view.ViewConfiguration;
 import android.view.accessibility.AccessibilityEvent;
 
 import android.widget.FrameLayout;
+import android.widget.Toast;
+
 import org.dsandler.apps.markers.R;
 
 public class ToolButton extends View implements View.OnLongClickListener, View.OnClickListener {
@@ -176,6 +178,12 @@ public class ToolButton extends View implements View.OnLongClickListener, View.O
             AlertDialog dlg = builder.create();
             dlg.show();
             return true;
+        }
+
+        @Override
+        public void onClick(View v) {
+            super.onClick(v);
+            Toast.makeText(getContext(), "长按可以设置画笔的粗细！", Toast.LENGTH_SHORT).show();
         }
     }
 
@@ -326,6 +334,14 @@ public class ToolButton extends View implements View.OnLongClickListener, View.O
             if (cb != null) cb.setBackgroundColor(this, color);
             return true;
         }
+
+        @Override
+        public void onClick(View v) {
+            super.onClick(v);
+            if ((color & 0xFF000000) == 0) { // transparent
+                Toast.makeText(getContext(), "已选择橡皮擦！", Toast.LENGTH_SHORT).show();
+            }
+        }
     }
 
     public static class ZoomToolButton extends ToolButton {
@@ -375,6 +391,12 @@ public class ToolButton extends View implements View.OnLongClickListener, View.O
             final ToolCallback cb = getCallback();
             if (cb != null) cb.resetZoom(this);
             return true;
+        }
+
+        @Override
+        public void onClick(View v) {
+            super.onClick(v);
+            Toast.makeText(getContext(), "手型工具：可以拖动和放大缩小图片和画布 ", Toast.LENGTH_SHORT).show();
         }
     }
 
