@@ -88,12 +88,11 @@ class About {
                 loadFileText(activity, "about.html"), "text/html", "utf-8", null);
 
         builder.setView(layout);
-//        builder.setNegativeButton("Website", new OnClickListener() {
-//            @Override
-//            public void onClick(DialogInterface dialog, int which) {
-//                dialog.dismiss();
-//                activity.clickSiteLink(null);
-//            }});
+        builder.setNegativeButton("关闭", new OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }});
 //        builder.setNeutralButton("on Play Store", new OnClickListener() {
 //            @Override
 //            public void onClick(DialogInterface dialog, int which) {

@@ -38,6 +38,14 @@
             android:contentDescription="load image"
             android:onClick="clickLoad"
             />
+    <Button
+        android:id="@+id/watermark"
+        style="@style/ActionBar.MenuItem"
+        android:src="@drawable/watermark"
+        android:text="水印"
+        android:contentDescription="water mark"
+        android:onClick="clickWaterMark"
+        />
           <Button
             android:id="@+id/debug"
             style="@style/ActionBar.MenuItem"

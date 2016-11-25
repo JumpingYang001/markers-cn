@@ -45,6 +45,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.Toast;
 
 import org.dsandler.apps.markers.R;
 
@@ -88,6 +89,12 @@ public class Slate extends View {
 //    public static final int SHAPE_BITMAP_CIRCLE = 2;
     public static final int SHAPE_BITMAP_AIRBRUSH = 3;
     public static final int SHAPE_FOUNTAIN_PEN = 4;
+
+    public static WaterMarkSetting waterMarkSetting = new WaterMarkSetting();
+//    public static String WaterMarkText = "";
+//    public static int WaterMarkSize = 0;
+//    public static int WaterMarkX = 0;
+//    public static int WaterMarkY = 0;
 
     private float mPressureExponent = 2.0f;
 
@@ -693,6 +700,16 @@ public class Slate extends View {
         invalidate();
     }
 
+    private void paintWaterMark(Canvas canvas, WaterMarkSetting wms)
+    {
+        if(canvas != null) {
+            Paint paint = new Paint();
+            paint.setColor(wms.WaterMarkColor);
+            paint.setTextSize(wms.WaterMarkSize);
+            canvas.drawText(wms.WaterMarkText, wms.WaterMarkX, wms.WaterMarkY, paint);
+        }
+    }
+
     public void paintBitmap(Bitmap b) {
         if (mTiledCanvas == null) {
             mPendingPaintBitmap = b;
@@ -831,6 +848,13 @@ public class Slate extends View {
             mTiledCanvas.drawTo(canvas, 0, 0, mBlitPaint, false); // @@ set to true for dirty tile updates
             if (0 != (mDebugFlags & FLAG_DEBUG_STROKES)) {
                 drawStrokeDebugInfo(canvas);
+            }
+            if(waterMarkSetting.WaterMarkText != "" && waterMarkSetting.WaterMarkSize != 0)
+            {
+                //WaterMark.IsDrawing &&
+                paintWaterMark(canvas, waterMarkSetting);
+                WaterMark.IsDrawing = false;
+                //Toast.makeText(getContext(), "WaterMarkText: "+WaterMarkText, Toast.LENGTH_SHORT).show();
             }
 
             canvas.restore();

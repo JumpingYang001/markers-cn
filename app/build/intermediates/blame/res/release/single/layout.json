@@ -28,6 +28,10 @@
         "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\layout\\colors_vertical.xml"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\layout\\watermark_box.xml",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\layout\\watermark_box.xml"
+    },
+    {
         "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\release\\layout\\colors_horizontal.xml",
         "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\layout\\colors_horizontal.xml"
     },

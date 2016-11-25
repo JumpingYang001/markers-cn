@@ -64,6 +64,10 @@
         "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\load.png"
     },
     {
+        "merged": "C:\\git\\markers-cn\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\watermark.png",
+        "source": "C:\\git\\markers-cn\\app\\src\\main\\res\\drawable-xhdpi\\watermark.png"
+    },
+    {
         "merged": "C:\\markers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\divider.png",
         "source": "C:\\markers\\app\\src\\main\\res\\drawable-xhdpi\\divider.png"
     },

@@ -59,6 +59,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.PopupMenu;
 import android.widget.TextView;
@@ -518,6 +519,7 @@ public class MarkersActivity extends Activity
         }
         if ((keyCode == KeyEvent.KEYCODE_BACK))
         {
+            saveDrawing(WIP_FILENAME, true);
             finish();
             android.os.Process.killProcess(android.os.Process.myPid());
             super.onDestroy();
@@ -825,7 +827,27 @@ public class MarkersActivity extends Activity
         About.show(this);
     }
 
+    public void clickWaterMark(View unused) {
+        hideOverflow();
+        WaterMark.show(this);
+    }
+
+    public void clickGenerateWaterMark(View unused) {
+        WaterMarkSetting wms =  WaterMark.GetWaterMark(this);
+        wms.WaterMarkColor = ((SwatchButton) mActiveColor).color;
+        if(wms.WaterMarkText.length() == 0 || wms.WaterMarkText.equals("") || wms.WaterMarkText == null)
+        {
+            Toast.makeText(this, "水印不能为空！ ", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        WaterMark.HideWaterMark();
+        mSlate.waterMarkSetting = wms;
+        mSlate.invalidate();
+        Toast.makeText(this, "水印： " + wms.WaterMarkText +", 字体大小:"+wms.WaterMarkSize+", X:"+wms.WaterMarkX+", Y:"+wms.WaterMarkY, Toast.LENGTH_SHORT).show();
+    }
+
     public void clickExit(View unused) {
+        saveDrawing(WIP_FILENAME, true);
         finish();
         android.os.Process.killProcess(android.os.Process.myPid());
         super.onDestroy();

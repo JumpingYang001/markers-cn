@@ -81,9 +81,9 @@ containing a value of this type.
     }
     public static final class drawable {
         public static final int action_button_bg=0x7f020000;
-        public static final int actionbar_button_bg=0x7f02001d;
-        public static final int actionbar_button_pressed_bg=0x7f02001e;
-        public static final int actionbar_button_selected_bg=0x7f02001f;
+        public static final int actionbar_button_bg=0x7f02001e;
+        public static final int actionbar_button_pressed_bg=0x7f02001f;
+        public static final int actionbar_button_selected_bg=0x7f020020;
         public static final int airbrush_dark=0x7f020001;
         public static final int airbrush_light=0x7f020002;
         public static final int check=0x7f020003;
@@ -112,41 +112,52 @@ containing a value of this type.
         public static final int uncledan=0x7f02001a;
         public static final int uncledan_save=0x7f02001b;
         public static final int undo=0x7f02001c;
+        public static final int watermark=0x7f02001d;
     }
     public static final class id {
-        public static final int about=0x7f080015;
+        public static final int about=0x7f080016;
         public static final int actionbar=0x7f080007;
         public static final int actionbar_contents=0x7f080008;
         public static final int airbrush=0x7f080000;
-        public static final int airbrush_marker=0x7f08001f;
+        public static final int airbrush_marker=0x7f080020;
         public static final int clear=0x7f08000d;
         public static final int colors=0x7f080011;
         public static final int debug=0x7f08000a;
-        public static final int editor=0x7f080017;
-        public static final int exit=0x7f080016;
-        public static final int fat_marker=0x7f08001c;
+        public static final int editor=0x7f080018;
+        public static final int exit=0x7f080017;
+        public static final int fat_marker=0x7f08001d;
         public static final int feltTip=0x7f080001;
-        public static final int felttip_marker=0x7f08001e;
+        public static final int felttip_marker=0x7f08001f;
         public static final int fountainpen=0x7f080002;
-        public static final int fountainpen_marker=0x7f080020;
+        public static final int fountainpen_marker=0x7f080021;
         public static final int html=0x7f080006;
         public static final int hud=0x7f080014;
+        public static final int labelInput=0x7f080022;
+        public static final int labelSize=0x7f080024;
+        public static final int labelX=0x7f080026;
+        public static final int labelY=0x7f080028;
+        public static final int linearLayout1=0x7f08002a;
         public static final int load=0x7f08000c;
         public static final int logo=0x7f080004;
         public static final int logotype=0x7f080009;
         public static final int overflow=0x7f080010;
-        public static final int pen_medium=0x7f08001a;
-        public static final int pen_thick=0x7f08001b;
-        public static final int pen_thin=0x7f080019;
+        public static final int pen_medium=0x7f08001b;
+        public static final int pen_thick=0x7f08001c;
+        public static final int pen_thin=0x7f08001a;
         public static final int root=0x7f080012;
         public static final int save=0x7f08000e;
         public static final int share=0x7f08000f;
+        public static final int spinner1=0x7f080025;
+        public static final int spinnerX=0x7f080027;
+        public static final int spinnerY=0x7f080029;
         public static final int title=0x7f080005;
-        public static final int tool_zoom=0x7f080018;
+        public static final int tool_zoom=0x7f080019;
         public static final int tools=0x7f080013;
         public static final int undo=0x7f08000b;
+        public static final int watermark=0x7f080015;
+        public static final int watertext=0x7f080023;
         public static final int whiteboard=0x7f080003;
-        public static final int whiteboard_marker=0x7f08001d;
+        public static final int whiteboard_marker=0x7f08001e;
     }
     public static final class layout {
         public static final int about_box=0x7f030000;
@@ -157,6 +168,7 @@ containing a value of this type.
         public static final int overflow_menu=0x7f030005;
         public static final int pen_editor=0x7f030006;
         public static final int tools=0x7f030007;
+        public static final int watermark_box=0x7f030008;
     }
     public static final class string {
         public static final int about_text=0x7f040001;
