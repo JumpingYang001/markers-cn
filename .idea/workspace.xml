@@ -7,61 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c40c8e43-b729-4436-9c14-245fc29e611c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/watermark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/WaterMark.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/WaterMarkSetting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-notouch-v4/values-large-notouch-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v16/values-xlarge-v16.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app-release.apk" afterPath="$PROJECT_DIR$/app/app-release.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/About.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/About.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$ColorList.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity$ColorList.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/MarkersActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/Slate$MarkersPlotter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/Slate$MarkersPlotter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/Slate$SmoothStroker.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/Slate$SmoothStroker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/Slate.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/Slate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/ToolButton$PenToolButton.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/ToolButton$PenToolButton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/WaterMark.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/apps/markers/WaterMark.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/dsandler/apps/markers/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/About.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/About.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$ColorList.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity$ColorList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/MarkersActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/Slate$MarkersPlotter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/Slate$MarkersPlotter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/Slate$SmoothStroker.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/Slate$SmoothStroker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/Slate.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/Slate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/ToolButton$PenToolButton.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/ToolButton$PenToolButton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/WaterMark.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/google/android/apps/markers/WaterMark.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/org/dsandler/apps/markers/R$string.class" />
@@ -77,24 +40,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/org/dsandler/apps/markers/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/org/dsandler/apps/markers/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/org/dsandler/apps/markers/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/org/dsandler/apps/markers/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/overflow_menu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/overflow_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/layout/overflow_menu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/layout/overflow_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/watermark_box.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/watermark_box.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/layout/watermark_box.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/layout/watermark_box.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/About.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/About.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/MarkersActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/MarkersActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/Slate.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/Slate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/overflow_menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/overflow_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml" />
     </list>
     <ignored path="markers-cn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,17 +73,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MarkersActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MarkersActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/MarkersActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="836" column="26" selection-start-line="836" selection-start-column="26" selection-end-line="836" selection-end-column="26" />
+            <state relative-caret-position="239">
+              <caret line="501" column="12" selection-start-line="501" selection-start-column="12" selection-end-line="501" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Slate.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Slate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/Slate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
@@ -170,8 +123,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+            <state relative-caret-position="289">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -1802,11 +1755,11 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/overflow_menu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/About.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/TiledBitmapCanvas.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/WaterMark.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/WaterMarkSetting.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/MarkersActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/Slate.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/MarkersActivity.java" />
       </list>
     </option>
   </component>
@@ -2423,7 +2376,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32834852" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37516254" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2624,17 +2577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/ToolButton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -2644,6 +2586,25 @@
             <element signature="e#10955#10956#0" expanded="true" />
             <element signature="e#11002#11003#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/Slate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="708" column="86" selection-start-line="708" selection-start-column="86" selection-end-line="708" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/watermark_box.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2657,16 +2618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/MarkersActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="836" column="26" selection-start-line="836" selection-start-column="26" selection-end-line="836" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/markers/Slate.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="708" column="86" selection-start-line="708" selection-start-column="86" selection-end-line="708" selection-end-column="86" />
+          <caret line="501" column="12" selection-start-line="501" selection-start-column="12" selection-end-line="501" selection-end-column="12" />
           <folding />
         </state>
       </provider>
